@@ -1,10 +1,10 @@
-package com.personal.Suduko;
+package com.project.sudoku;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SudukoApplicationTests {
+class SudokuApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.personal.Suduko;
+package com.project.sudoku;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SudukoApplication {
+public class SudokuApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SudukoApplication.class, args);
+		SpringApplication.run(SudokuApplication.class, args);
 	}
 
 }
